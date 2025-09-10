@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "made_by_alex", 
+    "username": "Danger_MC_Guard", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "dengermc1.aternos.me", 
+    "ip": "dangermc1.aternos.me", 
     "port": 55195,   
     "version": "1.12.2"
   },
@@ -35,12 +35,12 @@
       "repeat-delay": 60,
 
       "messages": [
-        "Welcome to AlexRejon Server!",
-        "I'm a regular player",
-        "My Woner Is Alex!",
-        "I'm a bot made by Alex",
-        "This server is made by Alex",
-        "Thanks for playing on this server"
+        "§4Welcome to Danger MC!",
+        "§bI'm a regular player",
+        "§bMy Woner Is Alex!",
+        "§bI'm a bot made by Alex",
+        "§bThis server is made by Alex",
+        "§bThanks for playing on this server"
         
       ]
     },
